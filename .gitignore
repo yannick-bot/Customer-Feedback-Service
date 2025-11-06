@@ -1,0 +1,17 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Customer Feedback Service/*
+!/Customer Feedback Service/task/
+/Customer Feedback Service/task/*
+!/Customer Feedback Service/task/src
+!/Customer Feedback Service/task/build.gradle
